@@ -1,0 +1,19 @@
+{
+  "name": "echange",
+  "version": "1.0.0",
+  "description": "A simple webserver to update currencies on Airtable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MatthewMilitante",
+  "license": "ISC",
+  "devDependencies": {
+    "airtable": "^0.4.3",
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "money": "^0.2.0",
+    "open-exchange-rates": "^0.3.0",
+    "qwest": "^4.4.5"
+  }
+}
