@@ -8,7 +8,7 @@ You will need to [sign up](https://airtable.com)
  for an Airtable account. Once you have an account:
 
 1) Create an airtable with this schema:
-Columns: Name, FXRate, Our Buy Margin, We Buy, Our Sell Margin, We Sell
+Columns: 'Name', 'FXRate', 'Our Buy Margin', 'We Buy', 'Our Sell Margin', 'We Sell'
 
 2) Add your currencies under the 'Name' Column.
 
