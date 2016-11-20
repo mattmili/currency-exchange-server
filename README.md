@@ -25,6 +25,7 @@ module.exports = {
 
 4) Now run:
 ```
+npm install
 node server.js
 ```
 
